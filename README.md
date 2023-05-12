@@ -32,4 +32,4 @@ O Simon Game é um jogo clássico de memória e sequenciamento, desenvolvido uti
 
 ## Acesse Aqui 👇
 
-- [Simon Game](https://imaginative-cranachan-c01848.netlify.app/)
+- [Simon Game](https://filipecrysthian.github.io/simon-game/)
